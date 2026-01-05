@@ -108,10 +108,10 @@ npm run dev
 
 ## 👨‍💻 Authors
 
-**Sarvesh Sapkal**
-**Shalvi Maheshwari**
-**Laukika Shinde**
-WasteTrace – Smart Waste Tracking System
+- **Sarvesh Sapkal**
+- **Shalvi Maheshwari**
+- **Laukika Shinde**
+- WasteTrace – Smart Waste Tracking System
 
 ---
 
